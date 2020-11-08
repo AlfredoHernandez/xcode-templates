@@ -8,7 +8,7 @@
 import XCTest
 
 final class ___FILEBASENAMEASIDENTIFIER___Tests: XCTestCase {
-    func test_anAction_doesSomething() {
-        XCTAssertTrue(false, "Expected true but got false instead.")
+    func test() {
+        XCTFail("Initial failing test.")
     }
 }
