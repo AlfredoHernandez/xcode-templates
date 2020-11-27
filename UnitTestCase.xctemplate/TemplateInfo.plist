@@ -5,9 +5,9 @@
 	<key>Kind</key>
 	<string>Xcode.IDEFoundation.TextSubstitutionFileTemplateKind</string>
 	<key>Description</key>
-	<string>An simple unit test case class.</string>
+	<string>Simple unit test case class.</string>
 	<key>Summary</key>
-	<string>An simple unit test case class.</string>
+	<string>Simple unit test case class.</string>
 	<key>SortOrder</key>
 	<string>30</string>
 	<key>AllowedTypes</key>
