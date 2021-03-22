@@ -2,10 +2,11 @@
 //  ___COPYRIGHT___
 //
 
+@testable import ___PROJECTNAME:identifier___
 import XCTest
 
 final class ___FILEBASENAMEASIDENTIFIER___: XCTestCase {
-    func test() {
-        XCTFail("Initial failing test.")
+    func test_zero() {
+        XCTFail("Tests not yet implemented in ___FILEBASENAMEASIDENTIFIER___")
     }
 }
