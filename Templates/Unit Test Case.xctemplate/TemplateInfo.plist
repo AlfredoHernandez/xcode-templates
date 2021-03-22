@@ -5,9 +5,9 @@
 	<key>Kind</key>
 	<string>Xcode.IDEFoundation.TextSubstitutionFileTemplateKind</string>
 	<key>Description</key>
-	<string>Unit Test Case</string>
+	<string>A Swift XCTest test suite</string>
 	<key>Summary</key>
-	<string>Unit Test Case</string>
+	<string>Test Suite</string>
 	<key>SortOrder</key>
 	<string>30</string>
 	<key>AllowedTypes</key>
@@ -15,7 +15,7 @@
 		<string>public.swift-source</string>
 	</array>
 	<key>DefaultCompletionName</key>
-	<string>File</string>
+	<string>Tests</string>
 	<key>MainTemplateFile</key>
 	<string>___FILEBASENAME___.swift</string>
 	<key>Default</key>
